@@ -28,7 +28,7 @@ return new class extends Migration
 
             //custom
             $table->tinyInteger('type')->default(3); //0 = root,  1 = manager,  2 = teacher,  3 = normal user
-            $table->integer('group')->nullable();
+            $table->unsignedBigInteger('group')->nullable();
             $table->string('remarks')->nullable();
             $table->string('enable_url')->nullable(); // account register check url
             $table->timestampTz('expiry_date')->nullable(); // check url expire
