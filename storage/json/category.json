@@ -1,0 +1,151 @@
+{
+  "0": {
+    "name": "無攝食",
+    "data": [
+      {
+        "name": "無攝食",
+        "weight": 1,
+        "unit": "無",
+        "sugar_gram": 0,
+        "kcal": 0
+      }
+    ]
+  },
+  "1": {
+    "name": "飲品類",
+    "data": [
+      {
+        "name": "手搖飲料(全糖)",
+        "weight": 700,
+        "unit": "ml",
+        "sugar_gram": 79.8,
+        "kcal": 319.2
+      },
+      {
+        "name": "手搖飲料(少糖)",
+        "weight": 700,
+        "unit": "ml",
+        "sugar_gram": 56,
+        "kcal": 224
+      },
+      {
+        "name": "手搖飲料(半糖)",
+        "weight": 700,
+        "unit": "ml",
+        "sugar_gram": 47.6,
+        "kcal": 190.4
+      },
+      {
+        "name": "手搖飲料(微糖)",
+        "weight": 700,
+        "unit": "ml",
+        "sugar_gram": 35,
+        "kcal": 140
+      }
+    ]
+  },
+  "2": {
+    "name": "糕餅點心類",
+    "data": [
+      {
+        "name": "包餡甜麻糬(紅豆)",
+        "weight": 156,
+        "unit": "g/個",
+        "sugar_gram": 43,
+        "kcal": 172
+      },
+      {
+        "name": "綠豆椪",
+        "weight": 94,
+        "unit": "g/個",
+        "sugar_gram": 20,
+        "kcal": 80
+      }
+    ]
+  },
+  "3": {
+    "name": "冰品類",
+    "data": [
+      {
+        "name": "香草冰淇淋",
+        "weight": 100,
+        "unit": "g/盒",
+        "sugar_gram": 16,
+        "kcal": 64
+      },
+      {
+        "name": "檸檬棒棒冰",
+        "weight": 127,
+        "unit": "g/支",
+        "sugar_gram": 29,
+        "kcal": 116
+      }
+    ]
+  },
+  "4": {
+    "name": "加工調理食品類",
+    "data": [
+      {
+        "name": "豆干丁",
+        "weight": 0.9,
+        "unit": "g/塊",
+        "sugar_gram": 0.5,
+        "kcal": 2
+      },
+      {
+        "name": "蛋餅皮",
+        "weight": 54,
+        "unit": "g/片",
+        "sugar_gram": 2.3,
+        "kcal": 9.2
+      },
+      {
+        "name": "韓式泡菜",
+        "weight": 100,
+        "unit": "g",
+        "sugar_gram": 0.7,
+        "kcal": 2.8
+      },
+      {
+        "name": "叉燒肉",
+        "weight": 100,
+        "unit": "g",
+        "sugar_gram": 15,
+        "kcal": 60
+      }
+    ]
+  },
+  "5": {
+    "name": "糖果類",
+    "data": [
+      {
+        "name": "棒棒糖(黑糖梅子)",
+        "weight": 110,
+        "unit": "g/包",
+        "sugar_gram": 71.2,
+        "kcal": 284.8
+      },
+      {
+        "name": "棒棒糖(水果口味)",
+        "weight": 110,
+        "unit": "g/包",
+        "sugar_gram": 86,
+        "kcal": 344
+      },
+      {
+        "name": "牛奶巧克力",
+        "weight": 357,
+        "unit": "g/包",
+        "sugar_gram": 160,
+        "kcal": 640
+      },
+      {
+        "name": "軟糖(水果口味)",
+        "weight": 240,
+        "unit": "g/包",
+        "sugar_gram": 139,
+        "kcal": 556
+      }
+    ]
+  }
+}
