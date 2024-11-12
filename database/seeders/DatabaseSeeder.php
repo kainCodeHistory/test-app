@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
-       // $this->seedDefaultUsers(2);
+        $this->seedDefaultUsers(2);
         $this->seedDefaultFood();
     }
     private function seedDefaultUsers(int $quantity)
