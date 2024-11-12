@@ -2,6 +2,10 @@
 /public/build
 /public/hot
 /public/storage
+/public/static
+/public/css
+/public/js
+/public/
 /storage/*.key
 /vendor
 .env
